@@ -20,10 +20,10 @@ max=number2;
 }
 if(max>number3)
 {
-Console.WriteLine("максимальное число из введенных = "+max);
+Console.WriteLine("максимальное число из представленных = "+max);
 }
 else
 {
 max=number3;
-Console.WriteLine("максимальное число из введенных = "+max);
+Console.WriteLine("максимальное число из представленных = "+max);
 }
