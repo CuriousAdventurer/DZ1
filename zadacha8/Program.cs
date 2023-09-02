@@ -13,3 +13,7 @@ while(start<n)
     }
 start++;
 }
+if (n%2==0)
+ {
+    Console.Write(n);
+}
