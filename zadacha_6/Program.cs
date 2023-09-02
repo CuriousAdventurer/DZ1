@@ -7,9 +7,9 @@ Console.WriteLine("Введите число: ");
 int number1 = int.Parse(Console.ReadLine());
 if(number1%2==0)
 {
-Console.WriteLine("Введенное число является чётным");
+Console.WriteLine("Введенное число является чётным (делится на два без остатка))");
 }
 else
 {
-Console.WriteLine("Введенное число является нечетным");
+Console.WriteLine("Введенное число является нечетным (не делится на два без остатка)");
 }
