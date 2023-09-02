@@ -19,4 +19,4 @@ else
 min=number1;
 max=number2;
 }
-Console.WriteLine("большее число = "+max+" меньшее число = "+min);
+Console.WriteLine("большее число = "+max+", меньшее число = "+min);
